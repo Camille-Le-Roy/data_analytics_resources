@@ -1,1 +1,1 @@
-# Resources for data analysis
+Resources for data analysis
