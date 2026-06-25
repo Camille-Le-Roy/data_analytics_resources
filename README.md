@@ -1,1 +1,1 @@
-# data_analytics_resources
+# Resources for data analysis
